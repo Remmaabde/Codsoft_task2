@@ -1,2 +1,2 @@
-# Pathway_05-05-23
-Learn how to design a professional and responsive travel website landing page with HTML and CSS in this step-by-step tutorial.
+# Landing Page using HTML & CSS
+Presenting a responsive landing page crafted with HTML and CSS for a travel website, showcasing my skills in web development.
